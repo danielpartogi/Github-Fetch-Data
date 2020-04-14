@@ -1,0 +1,6 @@
+framework module Pods_Github_Fetch_Data {
+  umbrella header "Pods-Github Fetch Data-umbrella.h"
+
+  export *
+  module * { export * }
+}
